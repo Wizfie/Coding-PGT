@@ -38,11 +38,12 @@ Hasil : ![Gambar3](https://github.com/Wizfie/Oreo/blob/main/4.png)
 
   2. Kemuadian Kolaborator meng-clone repo ke direktory lokal
   dengan command :
-    ```
-    get clone https://github.com/Wizfie/Hello.git
+   
+  ```
+  get clone https://github.com/Wizfie/Hello.git
 
-    cd Hello
-    ````
+  cd Hello
+   ````
 
 ## Langkah 3 : Berkolaborasi
     1. Kolaborator Membuat branch baru kemudian meminta menambah kata "Halo dunia" di dalam readme.md
