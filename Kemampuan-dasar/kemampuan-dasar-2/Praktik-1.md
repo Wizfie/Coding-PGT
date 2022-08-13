@@ -8,7 +8,7 @@ Hasil : ![Gambar1](https://github.com/Wizfie/Oreo/blob/main/Screenshot%202022-08
     - Selanjutnya Menghubungkan Repo yang baru di buat ke di Github ke direktory 'Lokal' dan menambahkan 1 file beranama Readme.
         Dengan mengggunakan command line
   ```
-  echo "# da" >> README.md
+  echo "# Hello" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
